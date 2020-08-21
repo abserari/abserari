@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> 
-<a href="https://t.me/abserari"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
+<a href="https://t.me/abserari"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
 
 <a href="https://www.yuque.com/abser"><img src="https://img.shields.io/badge/Yuque-abser-brightgreen?&style=flat" height=25></a> 
 <a href="http://abserari.vercel.app/"><img src="https://img.shields.io/badge/-Wiki-green?logo=wikipedia&style=flat" height=25></a>
