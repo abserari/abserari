@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 <summary>GitHub Repos</summary> 
   
 To-do: Consider pin repos here but not below.
-
-<a href="https://github.com/abserari/quicksilver"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver&theme=gruvbox" /></a>
-<a href="https://github.com/silverswords/pulse"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse&theme=gruvbox" /></a>
-<a href="https://github.com/silverswords/mast"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=mast&theme=gruvbox" /></a>
-<a href="https://github.com/abserari/projector"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=projector&theme=gruvbox" /></a>
-
+<p align="left">
+<a href="https://github.com/abserari/quicksilver"><img  height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver&theme=gruvbox" /></a>
+<a href="https://github.com/silverswords/pulse"><img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse&theme=gruvbox" /></a>
+<a href="https://github.com/silverswords/mast"><img  height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=mast&theme=gruvbox" /></a>
+</p>
 
 </details> 
 
+<br>
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
