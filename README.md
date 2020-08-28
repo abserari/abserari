@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br>
   
 <p align="center">
-<a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=31,e96443,904e95&title_color=fff&text_color=fff" /></a>
 <a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
 </p>
 <details> 
