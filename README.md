@@ -12,16 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: TechCatsLab are a group of cats
 
-<!-- <details> -->
-<!-- <summary>Some Stats</summary> -->
+
 <br>
   
 <p align="center">
 <a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 <a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
 </p>
+<details> 
+<summary>GitHub Repos</summary> 
+  
+To-do: Consider pin repos here but not below.
 
-<!--</details> -->
+<a href="https://github.com/abserari/quicksilver"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver&theme=gruvbox" /></a>
+<a href="https://github.com/silverswords/pulse"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse&theme=gruvbox" /></a>
+<a href="https://github.com/silverswords/mast"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=mast&theme=gruvbox" /></a>
+<a href="https://github.com/abserari/projector"><img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=projector&theme=gruvbox" /></a>
+
+
+</details> 
 
 <hr>
 <p align="center">
