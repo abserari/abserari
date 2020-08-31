@@ -40,9 +40,7 @@ To-do: Consider pin repos here but not below.
 <a href="https://gitter.im/abserari/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"><img src="https://badges.gitter.im/abserari/community.svg" height=25></a>
 <a href="https://t.me/abserari"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
 <a href="https://www.yuque.com/abser"><img src="https://img.shields.io/badge/Yuque-abser-brightgreen?&style=flat" height=25></a> 
-  
   <a href="https://medium.com/@abserari"><img src="https://img.shields.io/badge/MEDIUM-%230A0A0A.svg?logo=medium&style=flat&logoColor=white" height=25></a> 
-  
 <a href="http://abserari.vercel.app/"><img src="https://img.shields.io/badge/-Wiki-green?logo=wikipedia&style=flat" height=25></a>
 <a href="https://www.twitter.com/abser61207966"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/abser-ari-b518b4177/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://dev.to/abserari"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?logo=dev.to&style=flat&logoColor=white" height=25></a>
