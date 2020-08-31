@@ -19,13 +19,8 @@ Here are some ideas to get you started:
 <summary>GitHub Repos</summary> 
   
  <p align="center">
-<a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=31,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
-</p>
-To-do: Consider pin repos here but not below.
-<p align="center">
-<a href="https://github.com/abserari/quicksilver"><img height="150" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver" /></a>
-<a href="https://github.com/silverswords/pulse"><img height="150" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse" /></a>
+<a href="https://github.com/abserari"><img height="200" width="500" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=31,e96443,904e95&title_color=fff&text_color=fff" /></a>
+<a href="https://github.com/abserari"><img height="200" width="300" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
 </p>
 
 </details> 
