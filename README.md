@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/abserari"><img height="200" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
 </p>
 To-do: Consider pin repos here but not below.
-<p align="left">
-<a href="https://github.com/abserari/quicksilver"><img  height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver&theme=gruvbox" /></a>
-<a href="https://github.com/silverswords/pulse"><img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse&theme=gruvbox" /></a>
-<a href="https://github.com/silverswords/mast"><img  height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=mast&theme=gruvbox" /></a>
+<p align="center">
+<a href="https://github.com/abserari/quicksilver"><img height="150" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=abserari&repo=quicksilver" /></a>
+<a href="https://github.com/silverswords/pulse"><img height="150" width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=silverswords&repo=pulse" /></a>
 </p>
 
 </details> 
