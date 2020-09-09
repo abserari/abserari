@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-I make elegantly professional ☁️ Cloud , 💻 Distributed Systems also Write some blogs. 🌈
+I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write some blogs. 🌈
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on [pulse](https://github.com/silverswords/pulse)
-- 🌱 I’m currently learning kubernetes, linux kernel, Dapr, OSS
+- 🔭 I’m currently working on [pulse](https://github.com/silverswords/pulse): An Eventbus: Portable, Scalable,Extensible
+- 🌱 I’m currently learning kubernetes, linux kernel, Dapr, OSS. 
 - 👯 I’m looking to collaborate on opensource project
 - 🤔 I’m looking for help with getting a job in Chengdu
-- 💬 Ask me about how to learn porgramming
-- 📫 How to reach me: abser@foxmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: TechCatsLab are a group of cats
+- 💬 Ask me about hard questions resolved by SourceReading and My design Capacity. For beginners: ask about how to learn porgramming
+- 📫 How to reach me: abserari@gmail.com
+- ⚡ Fun fact: TechCatsLab are a group of cats. Build better world by Technology.
 
 
 <br>
