@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   
 <p align="center"> 
 <a href="https://t.me/abserari"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=flat&logo=telegram&logoColor=white" height=25></a>
-  <a href="https://medium.com/@abserari"><img src="https://img.shields.io/badge/MEDIUM-%230A0A0A.svg?logo=medium&style=flat&logoColor=white" height=25></a> 
 </p>
 
 <p  align="center">
