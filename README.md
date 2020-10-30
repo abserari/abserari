@@ -48,3 +48,5 @@ Participate by contacting me with WeChat **abser9216** or other ways.
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abserari" alt="visitor badges"/>
 <img src="https://komarev.com/ghpvc/?username=abserari&label=Visitors" alt="visitor badge"/>       
 </p>
+
+<a href="https://discord.gg/dS9dkdNqwX">欢迎加入技术猫频道</a>
