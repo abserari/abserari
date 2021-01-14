@@ -23,7 +23,7 @@ Participate by contacting me with WeChat **abser9216** or other ways.
 <br>
 
 - 🤔 I’m looking for help with getting a job in Chengdu
-- 💬 Ask me about hard questions resolved by SourceReading and My design Capacity. For beginners: ask about how to learn porgramming
+- 💬 Ask me about hard questions resolved by SourceReading. For beginners: ask about how to learn porgramming
 - 📫 How to reach me: abserari@gmail.com
 - ⚡ Fun fact: TechCatsLab are a group of cats. Build  better world by Technology.
 
