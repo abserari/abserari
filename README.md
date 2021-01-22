@@ -1,13 +1,17 @@
 ## Hi there 👋
+On My Way to Top Programer
 
 I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write some [blogs](https://yuque.com/abser). 🌈
  
 Here are some ideas to get you started:
 - 🔭 I’m currently working on [pulse](https://github.com/silverswords/pulse): An Eventbus: Portable, Scalable,Extensible
 - 🌱 I’m currently learning kubernetes, linux kernel, Dapr, OSS. 
-- 👯 I’m looking to collaborate on sharing in SIG.Now we have four SIG.
+- 👯 I’m looking to collaborate on everything.Find collaborator in other top programer from here.
+[![Discord Banner](https://discord.com/api/guilds/771388143148073040/widget.png?style=banner2)](https://discord.gg/rRwryXfj3u)
+
 <br>
-  
+
+
 <details> 
 <summary>SIGs</summary> 
   
@@ -24,8 +28,8 @@ Participate by contacting me with WeChat **abser9216** or other ways.
 
 - 🤔 I’m looking for help with getting a job in Chengdu
 - 💬 Ask me about hard questions resolved by SourceReading. For beginners: ask about how to learn porgramming
-- 📫 How to reach me: abserari@gmail.com
-- ⚡ Fun fact: TechCatsLab are a group of cats. Build  better world by Technology.
+- 📫 How to reach me: abserari@gmail.com, and any other platform with ID: abserari
+- ⚡ Fun fact: TechCatsLab are a group of cats. Build a better world by Technology.
 
 
 <br>
@@ -36,7 +40,6 @@ Participate by contacting me with WeChat **abser9216** or other ways.
  <p align="center">
 <a href="https://github.com/abserari"><img height="200" width="500" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=31,e96443,904e95&title_color=fff&text_color=ffa" /></a>
 <a href="https://github.com/abserari"><img height="200" width="300" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
-<a href="https://sourcerer.io/abserari"><img src="https://i.loli.net/2020/09/25/z1iUmBK76VNTsSx.png" /></a>
 </p>
 
 </details> 
@@ -48,5 +51,3 @@ Participate by contacting me with WeChat **abser9216** or other ways.
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abserari" alt="visitor badges"/>
 <img src="https://komarev.com/ghpvc/?username=abserari&label=Visitors" alt="visitor badge"/>       
 </p>
-
-<a href="https://discord.gg/dS9dkdNqwX">欢迎加入技术猫频道</a>
