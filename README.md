@@ -6,7 +6,7 @@ I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on [pulse](https://github.com/silverswords/pulse): An Eventbus: Portable, Scalable,Extensible
 - 🌱 I’m currently learning kubernetes, linux kernel, Dapr, OSS. 
-- 👯 I’m looking to collaborate on everything. Chat on
+- 👯 I’m looking to collaborate. Chat on
 [![Discord Banner](https://discord.com/api/guilds/771388143148073040/widget.png?style=banner2)](https://discord.gg/rRwryXfj3u)
 
 <br>
