@@ -12,6 +12,17 @@ Here are some ideas to get you started:
 <br>
 
 
+<br>
+
+- 🤔 I’m looking for help with getting a job in Chengdu
+- 💬 Ask me about hard questions resolved by SourceReading. For beginners: ask about how to learn porgramming
+- 📫 How to reach me: abserari@gmail.com, and any other platform with ID: abserari
+- ⚡ Fun fact: TechCatsLab are a group of cats. Build a better world by Technology.
+
+
+<br>
+
+
 <details> 
 <summary>SIGs</summary> 
   
@@ -23,27 +34,6 @@ Here are some ideas to get you started:
 Participate by contacting me with WeChat **abser9216** or other ways.
 ![](https://i.loli.net/2020/10/01/D9Ryw8Qqn2zHaMK.jpg)
 </details> 
-
-<br>
-
-- 🤔 I’m looking for help with getting a job in Chengdu
-- 💬 Ask me about hard questions resolved by SourceReading. For beginners: ask about how to learn porgramming
-- 📫 How to reach me: abserari@gmail.com, and any other platform with ID: abserari
-- ⚡ Fun fact: TechCatsLab are a group of cats. Build a better world by Technology.
-
-
-<br>
-  
-<details> 
-<summary>GitHub Repos</summary> 
-  
- <p align="center">
-<a href="https://github.com/abserari"><img height="200" width="500" src="https://github-readme-stats-abserari.vercel.app/api?username=abserari&show_icons=true&bg_color=31,e96443,904e95&title_color=fff&text_color=ffa" /></a>
-<a href="https://github.com/abserari"><img height="200" width="300" src="https://github-readme-stats-abserari.vercel.app/api/top-langs/?username=abserari&hide=html,css" /></a>
-</p>
-
-</details> 
-
 <br>
 <hr>
 
