@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   
 Participate by contacting me with WeChat **abser9216** or other ways.
 ![](https://i.loli.net/2020/10/01/D9Ryw8Qqn2zHaMK.jpg)
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 </details> 
 <br>
 <hr>
