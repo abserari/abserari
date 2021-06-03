@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <br>
 
+![abserari's github stats](https://github-readme-stats.vercel.app/api?username=abserari&show_icons=true&theme=radical)
+
 
 <details> 
 <summary>SIGs</summary> 
