@@ -1,5 +1,5 @@
 ## Hi there 👋
-On My Way to Top Programer
+On My Way to Top Programer (Means learning a lot not only coding)
 
 I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write some [blogs](https://yuque.com/abser). 🌈
 
@@ -10,14 +10,12 @@ I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write 
 
 <br>
 
-![abserari's github stats](https://github-readme-stats.vercel.app/api?username=abserari&show_icons=true&theme=radical)
 
 
 <details> 
 <summary>Weekly Times</summary> 
   
- 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abserari)](https://github.com/anuraghazra/github-readme-stats)
+ ![abserari's github stats](https://github-readme-stats.vercel.app/api?username=abserari&show_icons=true&theme=radical)
 
 </details> 
 <br>
