@@ -24,6 +24,6 @@ I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write 
 <p  align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=abserari" alt="visitor badges"/>
 <img src="https://komarev.com/ghpvc/?username=abserari&label=Visitors" alt="visitor badge"/> 
-<a rel="me" href="https://mast.dragon-fly.club/@abser">@Mastodon</a>
+<a rel="me" href="https://t.me/abserari">Telegram DM Me</a>
 
 </p>
