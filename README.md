@@ -1,7 +1,5 @@
 ## Hi there 👋
-On My Way to Top Programer (Means learning a lot not only coding)
-
-I make elegantly professional ☁️ Cloud , 💡 SourceCode Reading also Write some [blogs](https://yuque.com/abser). 🌈
+professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write some [blogs](https://yuque.com/abser). 🌈
 
 - <<[kubernetes pictures](https://i.cloudnative.to/kubernetes/v/kubernetes-picture-book-v1.0/)>>'s author. A book with hudreds pics that display the Kubernetes's architecture and design.
 
