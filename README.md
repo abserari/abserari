@@ -7,11 +7,22 @@ professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write 
 
 
 <br>
-
-
+<details> 
+<summary>Pin</summary> 
+  
+Nothing now
+  
+</details> 
 
 <details> 
-<summary>Weekly Times</summary> 
+<summary>News</summary> 
+  
+Working on OpenSource with Company
+  
+</details> 
+
+<details> 
+<summary>Activity</summary> 
   
  ![abserari's github stats](https://github-readme-stats.vercel.app/api?username=abserari&show_icons=true&theme=radical)
 
@@ -20,8 +31,8 @@ professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write 
 <hr>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=abserari" alt="visitor badges"/>
-<img src="https://komarev.com/ghpvc/?username=abserari&label=Visitors" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=abserari" alt="my visitor badges"/>
+<img src="https://komarev.com/ghpvc/?username=abserari&label=my wife visitors" alt="my wife visitor badge"/> 
 <a rel="me" href="https://t.me/abserari">Telegram DM Me</a>
 
 </p>
