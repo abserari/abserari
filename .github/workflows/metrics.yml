@@ -32,12 +32,23 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+
+      - name: 🦑 Recent Activities - yuque
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: yuque.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: 'div[data-aspm="d127944"]'
           # plugin_screenshot_selector: ".MyEvents-module_eventCardList_+Hq36"
           plugin_screenshot_title: DigitalGarden
           plugin_screenshot_url: https://www.yuque.com/abser
+          
       - name: 🦑 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
