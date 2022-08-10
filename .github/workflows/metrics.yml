@@ -1,97 +1,101 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # 🌏 Think about the planet! No need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: 🦑 Recent Activities
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: abserari
-          template: classic
-          base: header, metadata
-          base_indepth: yes
-          config_timezone: Asia/Shanghai
-          config_twemoji: yes
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
-          plugin_gists: yes
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
-          plugin_notable_types: commit
-          plugin_people: yes
-          plugin_people_identicons_hide: yes
-          plugin_people_limit: 24
-          plugin_people_shuffle: yes
-          plugin_people_size: 28
-          plugin_people_types: followers
+          filename: activities.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_posts: yes
           plugin_posts_covers: yes
           plugin_posts_descriptions: yes
           plugin_posts_limit: 4
           plugin_posts_source: hashnode
           plugin_posts_user: abser
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
           plugin_screenshot: yes
           plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
+          plugin_screenshot_selector: 'div[data-aspm="d127944"]'
+          # plugin_screenshot_selector: ".MyEvents-module_eventCardList_+Hq36"
           plugin_screenshot_title: DigitalGarden
           plugin_screenshot_url: https://www.yuque.com/abser
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
+      - name: 🦑 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_fortune: yes
+      - name: 🦑 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          filename: general.svg
+          # Options
+          user: abserari
+          template: classic
+          base: header
+          base_indepth: yes
+          config_timezone: Asia/Shanghai
+          config_twemoji: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_ignored:  html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
+          plugin_languages_limit: 16
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 2%
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_filter: stars:>500
+          plugin_notable_types: commit,pull_request,issue
+          plugin_people: yes
+          plugin_people_identicons_hide: yes
+          plugin_people_limit: 24
+          plugin_people_shuffle: yes
+          plugin_people_size: 28
+          plugin_people_types: followers
+
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_limit: 3
-          plugin_tweets_user: abserari
+#           plugin_tweets: yes
+#           plugin_tweets_limit: 3
+#           plugin_tweets_user: abserari
