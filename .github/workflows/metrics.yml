@@ -23,17 +23,17 @@ jobs:
           plugin_posts: yes
           plugin_posts_covers: yes
           plugin_posts_descriptions: yes
-          plugin_posts_limit: 4
+          plugin_posts_limit: 6
           plugin_posts_source: hashnode
           plugin_posts_user: abser
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 5
+          plugin_activity_limit: 6
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 6
 #       - name: 🦑 Recent Activities - yuque
 #         if: ${{ success() || failure() }}
 #         uses: lowlighter/metrics@latest
@@ -65,10 +65,6 @@ jobs:
           base_indepth: yes
           config_timezone: Asia/Shanghai
           config_twemoji: yes
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
