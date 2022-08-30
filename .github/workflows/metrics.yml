@@ -20,20 +20,20 @@ jobs:
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
-          plugin_posts: yes
-          plugin_posts_covers: yes
-          plugin_posts_descriptions: yes
-          plugin_posts_limit: 6
-          plugin_posts_source: hashnode
-          plugin_posts_user: abser
+#           plugin_posts: yes
+#           plugin_posts_covers: yes
+#           plugin_posts_descriptions: yes
+#           plugin_posts_limit: 6
+#           plugin_posts_source: hashnode
+#           plugin_posts_user: abser
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 6
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_stars: yes
-          plugin_stars_limit: 6
+#           plugin_stars: yes
+#           plugin_stars_limit: 6
 #       - name: 🦑 Recent Activities - yuque
 #         if: ${{ success() || failure() }}
 #         uses: lowlighter/metrics@latest
@@ -79,11 +79,11 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_notable_from: all
-          plugin_notable_filter: stars:>500
+          plugin_notable_filter: stars:>200
           plugin_notable_types: commit,pull_request,issue
           plugin_people: yes
           plugin_people_identicons_hide: yes
-          plugin_people_limit: 24
+          plugin_people_limit: 48
           plugin_people_shuffle: yes
           plugin_people_size: 28
           plugin_people_types: followers
