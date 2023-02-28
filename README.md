@@ -19,11 +19,8 @@ professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write 
 -->
 
 
-<p  align="center">
-  <a href="https://app.daily.dev/abser"><img  align="right" src="https://github.com/abserari/abserari/blob/master/devcard.svg" width="150" alt="Abser Ari's Dev Card"/></a>
-
-</p>
-
-## JOIN US
-we have a community about opensource, if you want to learn more.Join Us!
+## Find me
 <a rel="me" href="https://t.me/abserari">Telegram DM Me</a>
+<a rel="me" href="https://www.linkedin.com/in/dingrui-yang-b518b4177/">Linkedin</a>
+
+
