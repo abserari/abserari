@@ -22,7 +22,5 @@ professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write 
 
 ## Find me
 
-<a rel="me" href="https://t.me/abserari">Telegram DM Me</a>
-
 <a rel="me" href="https://www.linkedin.com/in/dingrui-yang-b518b4177/">Linkedin</a>
 
