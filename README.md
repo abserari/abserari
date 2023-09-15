@@ -4,7 +4,10 @@ professional on ☁️ Cloud , 💡 SourceCode reading elegantly and also Write 
 
 [<img align="left" width="45%" alt="🦑" src="https://gist.github.com/abserari/1c4d246483b38189cd593663b16810ab/raw/general.svg">](#)
 
+<!-- 
 [<img align="right" width="19%" alt="🦑" src="https://count.getloli.com/get/@:abserari?theme=rule34">](#)
+
+-->
 
 [<img align="right" width="45%" alt="🦑" src="https://gist.github.com/abserari/1c4d246483b38189cd593663b16810ab/raw/activities.svg">](https://hashnode.abser.top)
 
